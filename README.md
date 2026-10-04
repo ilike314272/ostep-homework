@@ -1,4 +1,4 @@
-# Homeworks
+# Homework
 
 Each chapter has some questions at the end; we call these "homeworks", because you should do the "work" at your "home". Make sense? It's one of the innovations of this book.
 
